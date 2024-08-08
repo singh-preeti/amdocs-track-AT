@@ -1,0 +1,150 @@
+CI/ CD -> Continuous Integration
+       -> Continuous Delivery/ Deployment 
+
+Application -> jio cinema 
+
+Front End  -> HTML (function) -> js -> (Styling) Css 
+ Browser -> Client -> requests -> server -> fetch the data from database if data exists then http status is 200
+  if data is not found then status is 404 not found.
+
+browser understands only html/ xml , js/ json 
+
+ http 200 -> ok (request  response) 
+http 404 -> Not found 
+
+Back End  -> python ,java ( springboot) create the API 
+ API -> Application programming interface
+
+Rest API -> Re -> representational s-> state t-> transfer 
+ 
+Database  -> No sql, sql 
+
+Student  ( structural query language)
+id  name  course  address 
+1   Atul  IT       Lucknow
+2   Mudit CS       Andhra
+3   Hrshit HR       -
+
+MySQL -> insert into student values(3,"harsht","HR");
+
+No SQL (Json)
+ student {{
+
+  "id": 1,
+  "name":"Atul",
+  "course":"IT",
+  "address":"Lucknow"
+}
+{
+	"id": 2,
+  "name":"Mudit",
+  "course":"CS",
+  "address":"Andhra"
+
+}
+
+
+develop application which will help the customer to apply for the loan in a particular bank.
+   registration form -> submit
+   login form 
+   apply for loan -> form  -> filled up -> submit  -> function -> Api
+   
+backend -> 
+    spring (api) 
+database -> 
+   MySQL ( stored)
+
+registration form is completely done
+
+
+
+place ->  integrating fontend + backend + database = test 
+next day next task -> integrate the entire thing in first days application
+Repository -> Git 
+create a repo -> main ( all data ) = test 
+  
+
+CI -> 
+
+
+
+
+Git -> Version control system
+Requirement to develop as an application 
+
+-> 1st day design -> specification (pre-arranged result)  
+-> 2nd day design -> specification 
+-> 3rd day 
+
+Android -> v1
+v2 
+v3 = v1+v2
+v4 = additional features  +v1 
+
+git init
+git add .
+git commit -m "message"
+git push -u "url" master
+
+
+register with GitHub
+create a repository
+ add the multiple doc or an application using above commands
+create a branch and merge with the main or master branch and show the commits.
+
+
+Jenkins
+manual integration / automation integration
+
+
+CI/CD pipeline 
+CI -> detail 
+full stack application
+what devops 
+browser -> Rest API 
+
+hands on : git basics / vcs 
+CI -> Jenkins with basic integration techniques 
+
+
+java /jdbc / spring / maven
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
